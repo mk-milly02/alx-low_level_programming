@@ -2,6 +2,8 @@
 
 /**
  * main - prints a statement using puts
+ *
+ * Return: 0
  */
 
 int main(void)
